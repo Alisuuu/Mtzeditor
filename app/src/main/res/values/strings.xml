@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CrossS MTZ</string>
+    <string name="import_mtz">Importar MTZ</string>
+    <string name="export_mtz">Exportar MTZ</string>
+    <string name="theme_previews">Prévias</string>
+    <string name="system_components">Componentes do Sistema</string>
+    <string name="theme_title">Título do Tema</string>
+    <string name="save_changes">Salvar Alterações</string>
+    <string name="replace_image">Substituir da Galeria</string>
+    <string name="accessibility_service_description">Assistente para aplicação automática de temas MIUI/HyperOS.</string>
+</resources>
